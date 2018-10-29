@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ignitessm:war">
+    <output-path>$PROJECT_DIR$/ignitessm/target</output-path>
+    <root id="archive" name="ignite-ssm.war">
+      <element id="artifact" artifact-name="ignitessm:war exploded" />
+    </root>
+  </artifact>
+</component>

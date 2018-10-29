@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+        <module name="config-server" />
+        <module name="elasticsearch" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="ignite" />
+        <module name="ignitessm" />
+        <module name="netty" />
+        <module name="netty (1)" />
+        <module name="picture" />
+        <module name="service-feign" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="springcloud" />
+        <module name="webmagic" />
+        <module name="websocket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="elasticsearch" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="ignite" target="1.8" />
+      <module name="ignitessm" target="1.7" />
+      <module name="jsoup" target="1.8" />
+      <module name="netty" target="1.8" />
+      <module name="netty (1)" target="1.8" />
+      <module name="picture" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="webmagic" target="1.8" />
+      <module name="websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

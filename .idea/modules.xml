@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud.iml" filepath="$PROJECT_DIR$/.idea/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/springcloud/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springcloud/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ignite/ignite.iml" filepath="$PROJECT_DIR$/ignite/ignite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ignite/ignite.iml" filepath="$PROJECT_DIR$/ignite/ignite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ignitessm/ignitessm.iml" filepath="$PROJECT_DIR$/ignitessm/ignitessm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picture/picture.iml" filepath="$PROJECT_DIR$/picture/picture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/springcloud/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/springcloud/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/springcloud/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud.iml" filepath="$PROJECT_DIR$/springcloud/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmagic/webmagic.iml" filepath="$PROJECT_DIR$/webmagic/webmagic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
+    </modules>
+  </component>
+</project>

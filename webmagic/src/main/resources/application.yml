@@ -1,0 +1,9 @@
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+  rabbitmq:
+    host: localhost
+    virtual-host: /
+    port: 5672
